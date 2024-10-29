@@ -1,0 +1,27 @@
+Field,Value
+Title*,The ephemeral development of C′ shear bands: A numerical modelling approach
+Dataset version*,
+Abstract*,
+Topic category*,geoscientificInformation
+Field of research (FOR)*,https://linked.data.gov.au/def/anzsrc-for/2020/370401
+License*,Creative Commons Attribution 4.0 International
+Dataset lineage information*,"This model simulates the development of C' shear bands in ductile shear zones. The model begins with an equigranular texture of three phases: a strong phase (e.g., feldspar) an intermediate-strength phase (e.g., quartz) and an anisotropic weak phase (e.g., mica). Dextral shearing stretches and rotates the microstructure, forming S-C fabric, asymmetric folds and C' shear bands."
+Dataset format*,
+Dataset status,completed
+Maintenance frequency*,as needed
+Temporal extents* (if applicable),
+Spatial extents* (if applicable),
+Owner* (if applicable),
+Credit,
+Supplemental or supporting material,
+Local NCI file path,/g/data/nm08/MATE/finch-2024-cprime
+DOI (NCI Internal Field),
+Keyword/s,
+Author 1,"Finch, Melanie, Unknown, Unknown, https://orcid.org/0000-0001-9699-2769"
+Author 2,"Bons, Paul D., Unknown, Unknown, https://orcid.org/0000-0002-6469-3526"
+Author 3,"Steinbach, Florian, Unknown, Unknown, Unknown"
+Author 4,"Griera Artigas, Albert, Unknown, Unknown, https://orcid.org/0000-0003-4598-8385"
+Author 5,"Llorens, Maria-Gema, Unknown, Unknown, https://orcid.org/0000-0002-6148-2600"
+Author 6,"Gomez-Rivas, Enrique, Unknown, Unknown, https://orcid.org/0000-0002-1317-6289"
+Author 7,"Ran, Hao, Unknown, Unknown, https://orcid.org/0000-0002-8639-3890"
+Author 8,"de Riese, Tamara, Unknown, Unknown, https://orcid.org/0000-0001-5828-8711"
