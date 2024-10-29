@@ -1,1 +1,43 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Finch
+  given-names: Melanie
+  orcid: https://orcid.org/0000-0001-9699-2769
+- family-names: Bons
+  given-names:
+  - P.D.
+  - Paul D.
+  orcid: https://orcid.org/0000-0002-6469-3526
+- family-names: Steinbach
+  given-names: Florian
+  orcid: _:b4
+- family-names: Griera Artigas
+  given-names: Albert
+  orcid: https://orcid.org/0000-0003-4598-8385
+- family-names: Llorens
+  given-names: Maria-Gema
+  orcid: https://orcid.org/0000-0002-6148-2600
+- family-names: Gomez-Rivas
+  given-names:
+  - E.
+  - Enrique
+  orcid: https://orcid.org/0000-0002-1317-6289
+- family-names: Ran
+  given-names:
+  - H.
+  - Hao
+  orcid: https://orcid.org/0000-0002-8639-3890
+- family-names: de Riese
+  given-names:
+  - T.
+  - Tamara
+  orcid: https://orcid.org/0000-0001-5828-8711
+title: "The ephemeral development of C\u2032 shear bands: A numerical modelling approach"
+version: ''
+doi: https://doi.org/10.25914/whbg-hd74
+date-released: '2024-10-29'
+url:
+- https://mate.science/models/finch-2024-cprime/
+- https://github.com/ModelAtlasofTheEarth/finch-2024-cprime/
+type: dataset
